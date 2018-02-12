@@ -16,3 +16,17 @@ time: 2015-08 ~ now
 * git init
 
 * git clone 
+
+* git fetch/git pull
+
+* git push
+
+* git checkout -b xxx 创建并切到本地xxx分支   
+
+* git checkout xxx 切换分支
+
+* git branch -a
+
+* git merge bxx 当前分支合并bxx分支
+
+* git branch -d xxx  删除本地xxx分支
