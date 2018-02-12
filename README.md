@@ -27,6 +27,6 @@ time: 2015-08 ~ now
 
 * git branch -a
 
-* git merge bxx (当前分支合并bxx分支)
+* git merge bxx (当前所在分支合并bxx分支的修改)
 
-* git branch -d xxx  (删除本地xxx分支)
+* git branch -d xxx  (删除本地xxx分支, 当前所在分支是xxx以外的分支)
