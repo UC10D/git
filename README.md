@@ -30,3 +30,5 @@ time: 2015-08 ~ now
 * git merge bxx (当前所在分支合并bxx分支的修改)
 
 * git branch -d xxx  (删除本地xxx分支, 当前所在分支是xxx以外的分支)
+
+## 常用命令图片
