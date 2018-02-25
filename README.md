@@ -32,3 +32,5 @@ time: 2015-08 ~ now
 * git branch -d xxx  (删除本地xxx分支, 当前所在分支是xxx以外的分支)
 
 ## 常用命令图片
+
+![Alt text](https://github.com/UC10D/git/master/image/Command Line.png)
