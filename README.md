@@ -33,4 +33,4 @@ time: 2015-08 ~ now
 
 ## 常用命令图片
 
-![Alt text](https://github.com/UC10D/git/master/image/command-line.png)
+![Alt text](https://github.com/UC10D/git/blob/master/image/Command%20Line.jpg)
