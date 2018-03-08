@@ -3,8 +3,6 @@ git 学习踩坑及常用命令行
 
 ## 熟练度
 
-time: 2015-08 ~ now
-
 中级, 熟悉git常用命令, 分支, 合并, 鳞选
 
 ## 学习教程
@@ -15,17 +13,11 @@ time: 2015-08 ~ now
 
 * git init
 
-* git clone 
-
-* git fetch/git pull
-
-* git push
+* git clone -b develop https://username:password@remote
 
 * git checkout -b xxx (创建并切到本地xxx分支)   
 
 * git checkout xxx (切换分支)
-
-* git branch -a
 
 * git merge bxx (当前所在分支合并bxx分支的修改)
 
@@ -34,3 +26,11 @@ time: 2015-08 ~ now
 ## 常用命令图片
 
 ![Alt text](https://github.com/UC10D/git/blob/master/image/Command%20Line.jpg)
+
+## soft
+
+* SourceTree
+
+## bug
+
+* 大小写
