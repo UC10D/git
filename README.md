@@ -27,6 +27,12 @@ git 学习踩坑及常用命令行
 
 ![Alt text](https://github.com/UC10D/git/blob/master/image/Command%20Line.jpg)
 
+## ssh相关
+
+* [Git 【基于SSH协议clone GitHub远端仓库到本地】](http://blog.csdn.net/felicity294250051/article/details/53606158)
+* [使用GitLab，Mac下如何生成SSH Key](https://www.jianshu.com/p/46aaccc71ce8)
+* [Git - 生成ssh key步骤以及如何clone所有的远程分支](https://www.cnblogs.com/gongyuhonglou/p/6922721.html)
+
 ## soft
 
 * SourceTree
