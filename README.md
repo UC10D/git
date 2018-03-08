@@ -19,6 +19,10 @@ git 学习踩坑及常用命令行
 
 * git branch -d xxx  (删除本地xxx分支, 当前所在分支是xxx以外的分支)
 
+* git clean -df  git reset --hard (还原本地目录)
+    
+    
+
 ## 常用命令图片
 
 ![Alt text](https://github.com/UC10D/git/blob/master/image/Command%20Line.jpg)
