@@ -40,7 +40,4 @@ git 学习踩坑及常用命令行
 ## ps
 
 * 忽略文件, 如果在提交工作空间, 需要先删除
-
-## bug
-
-* 大小写
+* git config core.ignorecase false 设置大小写敏感
