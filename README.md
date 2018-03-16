@@ -36,6 +36,7 @@ git 学习踩坑及常用命令行
 ## soft
 
 * SourceTree
+* TortoiseGit 查看单个文件提交log
 
 ## ps
 
